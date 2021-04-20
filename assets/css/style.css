@@ -1,0 +1,39 @@
+body {
+    background-color: #000000;
+    font-family: 'Antonio';
+    margin: -25px;
+}
+
+.navbar {
+    transition: all 1s ease;
+}
+
+.icono-svg img {
+    width: 2.5rem;
+    margin-right: 10px;
+  }
+
+
+.carousel-item img {
+    max-height: 120vh;
+}
+
+
+hr {
+    background-color: #17a3b8;
+    height: 0.1px;
+}
+
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+.logo-font {
+    font-family: 'Antonio';
+    font-size: 30px;
+}
